@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+whisper.egg-info/PKG-INFO
+whisper.egg-info/SOURCES.txt
+whisper.egg-info/dependency_links.txt
+whisper.egg-info/entry_points.txt
+whisper.egg-info/requires.txt
+whisper.egg-info/top_level.txt
