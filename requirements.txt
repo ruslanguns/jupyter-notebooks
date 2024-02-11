@@ -4,7 +4,7 @@ numpy
 pandas
 torch
 torchvision==0.13.1
-tqdm==4.64.0
+tqdm==4.66.2
 more-itertools
 transformers>=4.19.0
 ffmpeg-python==0.2.0
