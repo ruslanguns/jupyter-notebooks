@@ -3,7 +3,7 @@ matplotlib
 numpy
 pandas
 torch
-torchvision==0.13.1
+torchvision==0.17.2
 tqdm==4.64.0
 more-itertools
 transformers>=4.19.0
